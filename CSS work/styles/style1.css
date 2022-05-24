@@ -1,0 +1,19 @@
+
+h1 , p {
+    border: 20px solid red;
+    color: red;
+}
+
+p {
+   color: blue;
+}
+
+img {
+    width: 10%;
+    border: 2px solid red;
+    float: left;
+}
+
+#para1 {
+    display: inline;
+}
